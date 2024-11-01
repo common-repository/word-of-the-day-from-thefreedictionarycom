@@ -1,0 +1,7 @@
+/* CSS styling for the Word of the Day Widget. */
+/* customize this to change the appearance of the widget */
+.widget-container.widget_tfdwotd div.tfd-wotd > table td { padding-left: 8px; }
+.widget-container.widget_tfdwotd div.tfd-wotd > table { }
+.widget-container.widget_tfdwotd div.tfd-wotd { /* the definition markup */  margin-bottom:8px; }
+.widget-container.widget_tfdwotd { border-bottom: 1px dotted #DDD; }
+
